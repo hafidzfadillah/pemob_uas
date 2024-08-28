@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "767353831634",
+    "project_id": "flutter-commerce-1c739",
+    "storage_bucket": "flutter-commerce-1c739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767353831634:android:47aa81ad7ed79adfe92d0b",
+        "android_client_info": {
+          "package_name": "com.example.pemob_uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq0ImAFmmHTdLsajXrPcHozsXHmc98WeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767353831634:android:ce9ef203f3049d09e92d0b",
+        "android_client_info": {
+          "package_name": "com.example.pemob_uas_rev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq0ImAFmmHTdLsajXrPcHozsXHmc98WeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
