@@ -36,7 +36,7 @@ class OrderModel {
         orderLat: jsonn["order_lat"].toString(),
         orderLon: jsonn["order_lon"].toString(),
         orderStatus: jsonn["order_status"],
-        userId: jsonn["user_id"] ?? '0',
+        userId: (jsonn["user_id"] ?? 0).toString(),
         userName: jsonn["user_name"] ?? '-',
       );
 

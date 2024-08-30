@@ -7,7 +7,7 @@ import 'package:pemob_uas/core/models/product_model.dart';
 class ApiService {
   final Dio _dio = Dio();
   final String baseUrl =
-      "https://b5e8-103-104-130-77.ngrok-free.app/pemob-uas/api";
+      "https://hfidz-dev.my.id/pemob-uas/api";
   final Logger _logger = Logger();
 
   ApiService() {
